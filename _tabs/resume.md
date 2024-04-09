@@ -5,7 +5,8 @@ order: 4
 ---
 # Dat Truong
 *Experienced IT Professional*
-
+Download my resume: [test][1]
+[1]:{{ site.url }}/assets/resume.pdf 
 ## Experience
 
 ### Office Administrator & IT Support Specialist
