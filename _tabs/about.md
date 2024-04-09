@@ -9,5 +9,5 @@ Hello! I'm Dat Truong. I am currently studying at San Diego State University. I 
 
 - **Email:** dattruongbusiness@gmail.com
 - **Phone:** (619) 325-7758
-- **LinkedIn:** [www.linkedin.com/in/dattruongbusiness](www.linkedin.com/in/dattruongbusiness)
+- **LinkedIn:** [www.linkedin.com/in/dattruongbusiness](https://www.linkedin.com/in/dattruongbusiness/)
 
