@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 5
 ---
 ## My Story:
 <p>Hello! I'm Dat Truong, and I'm currently pursuing B.S Degree in Computer Science at San Diego State University. Ever since I was young, I've had a strong passion for computers. When I got to college, I chose Computer Science as my major without hesitation.</p>
