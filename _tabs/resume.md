@@ -5,7 +5,7 @@ order: 4
 ---
 # Dat Truong
 *Experienced IT Professional*<br>
-Download: <i class="fa-solid fa-download"> </i> [Resume.pdf]()
+Download: <i class="fa-solid fa-download"> </i>
 ## Experience
 
 ### Office Administrator & IT Support Specialist
