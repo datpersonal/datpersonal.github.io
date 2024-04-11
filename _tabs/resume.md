@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fa-solid fa-file
-order: 4
+order: 3
 ---
 
 # Dat Truong                                     
