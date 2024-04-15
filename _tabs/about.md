@@ -11,8 +11,8 @@ order: 5
 ## My Hobbies:
 ### Badminton
 - I like to play Badminton on the side as a sport. I am now playing competitive team for SDSU Badminton Club.
-![Desktop View](https://scontent.fsan1-1.fna.fbcdn.net/v/t39.30808-6/327748429_1512181245931083_7882660858341020927_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=d5ZScnxeE9oAb7rCVfH&_nc_ht=scontent.fsan1-1.fna&oh=00_AfBzejfg7Bpduo7A6Gx56iD_txazQDMMZGSxgb5_2VFb1g&oe=661B832F){: .left } 
-*Jump smash at Balboa Park*
+![Desktop View](/assets/files/BadmintonTeam.jpg){: .left } 
+*SDSU Badminton Club Spring 2024*
 
 ### PC Building
 ![Desktop View](/assets/files/custompc3.jpg){: w="200" h="266" .right }
