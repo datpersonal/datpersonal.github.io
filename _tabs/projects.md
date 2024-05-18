@@ -7,8 +7,14 @@ order: 4
 
 ### SDSU Badminton Webpage 
 
-| Webpage:    | [SDSU Badminton Club](https://datpersonal.github.io/sdsubadminton) |
+| Webpage:              | [SDSU Badminton Club](https://datpersonal.github.io/sdsubadminton) |
 
 - **Description**: I created this with a friend using a different theme from jekyll. In this project, I tried to use mostly Markdown syntax in each page to improve my understanding of Markdown syntax.
     
-   
+| Github Repository:    | [Haskell-autograder](https://github.com/datpersonal/haskell-autograder-v2) |
+
+- **Description**: This is my Haskell autograder that modified based on the original from [danalizieors's Haskell-autograder](https://github.com/danalizieors/haskell-autograder). In this version, I modified to allow certain functions from prelude to ensure student following the instruction of the assignment. 
+
+| Github Repository: 	| [Prolog-autograder](https://github.com/datpersonal/CS420_TA/blob/main/Prolog/test.pl)
+
+- **Description**: This is my Prolog autograder that is created to test Prolog programming assignment for CS420. In this particular test.pl, I used the logic if-then-else in prolog to determine the answer of student base on their test. I also include false test case ``\+ test`` to catch false case from the student tests.
