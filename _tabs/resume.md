@@ -14,13 +14,13 @@ order: 3
 Resume in pdf version: &nbsp;&nbsp;[Resume.pdf](/assets/files/Resume.pdf)
 
 ## Skills and Soft Skills
-- Proficient in C++, C, Haskell, and Prolog.
-- Proficient in using Git and Unix commands.
+- Fluent in C++, C, Haskell, and Prolog.
+- Fluent in using Git and Unix commands.
 - Team player and communicative.
 - Utilize resources effectively.
 
 ## Experience
-### Instructional Student Assisstant
+### Instructional Student Assistant
 **San Diego State University**
 : *2024 - Present*
 - Provided help to student via discord server and email. 
