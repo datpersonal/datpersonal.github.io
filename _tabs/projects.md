@@ -18,3 +18,6 @@ order: 4
 | Github Repository: 	| [Prolog-autograder](/assets/files/test.pl)
 
 - **Description**: This is my Prolog autograder that is created to test Prolog programming assignment for CS420. In this particular test.pl, I used the logic if-then-else in prolog to determine the answer of student base on their test. I also include false test case ``\+ test`` to catch false case from the student tests.
+
+| Github Repository:    | [Egg Picker Game](/egg_picker)
+- **Description: A senior 2d game project that based on apple picker unity tutorial.
