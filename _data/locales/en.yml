@@ -10,9 +10,9 @@ layout:
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
-  home: My Blogs
+  home: Blogs
   categories: Directories
-  tags: Tags 
+  tags: Tags
   archives: Records
   about: About
 

@@ -22,3 +22,7 @@ order: 4
 |	Github Repository:	|	[Egg Picker game](https://datpersonal.github.io/egg_picker)	|
 
 - **Description**: A senior 2d game project that based on apple picker unity tutorial.
+
+| Github Repository:  | [Bau Cua](https://datpersonal.github.io/bau_cua)  |
+
+- **Description**: This is my 2d game project for my senior that based on the vietnamese new year gamble game that we have.
