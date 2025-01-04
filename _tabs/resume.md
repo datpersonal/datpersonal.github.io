@@ -39,6 +39,9 @@ Experienced IT professionals with significant experience in troubleshooting, mai
 
 **Skills:** Linux System Administration, Networking, Virtualization
 
+### Certifications:
+- Dec 2024: [**Google Cybersecurity Specialization**](/assets/files/GoogleCertificate.pdf)
+
 ## **Experience**
 
 ### IT Solutions Technician
