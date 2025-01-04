@@ -12,11 +12,32 @@ order: 3
 | LinkedIn: | [https://www.linkedin.com/in/dattruongbusiness](https://www.linkedin.com/in/dattruongbusiness) |
 
 Resume in pdf version: &nbsp;&nbsp;[Resume.pdf](/assets/files/Resume.pdf)
+## **PROFESSIONAL SUMMARY**
+
+Experienced IT professionals with significant experience in troubleshooting, maintenance and repair of various systems. Possess strong analytical abilities and problem-solving skills necessary for diagnosing complex issues. Demonstrated success in improving system performance and reliability through preventative maintenance and timely repairs. Proven ability to work under pressure while maintaining high standards of service delivery.
 
 ## **Skills and Soft Skills**
 - Fluent in C++, C, Haskell, and Prolog.
 - Fluent in using Git and Unix commands.
 - Problem-Solving, Communication, Adaptability.
+
+## **Projects and Certifications**
+
+### Projects:
+**CS 470 Lab Project**
+- Set up multiple Virtual Machines (VMs) running various services including DNS, NFS, containers, and mail servers.
+- Gained hands-on experience in system administration and IT skills, managing different Linux distributions.
+- Installed and configured various Linux distros to run the required services, enhancing troubleshooting and problem-solving abilities.
+
+**Skills:** Networking, Linux System Administration, Problem Solving
+
+**Homelab Setup**
+- Designed and built a homelab environment to strengthen knowledge of networking and Linux distributions.
+- Configured Proxmox VE for virtualization, including VMs and Docker containers.
+- Set up TrueNAS Scale for storage management and Tailscale for secure VPN access.
+- Installed and configured Linux distributions such as Gentoo, Arch Linux, and BlackArch for pentesting.
+
+**Skills:** Linux System Administration, Networking, Virtualization
 
 ## **Experience**
 
