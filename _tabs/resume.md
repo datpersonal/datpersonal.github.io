@@ -13,28 +13,27 @@ order: 3
 
 Resume in pdf version: &nbsp;&nbsp;[Resume.pdf](/assets/files/Resume.pdf)
 
-## Skills and Soft Skills
+## **Skills and Soft Skills**
 - Fluent in C++, C, Haskell, and Prolog.
 - Fluent in using Git and Unix commands.
-- Team player and communicative.
-- Utilize resources effectively.
+- Problem-Solving, Communication, Adaptability.
 
-## Experience
-### Instructional Student Assistant
-**San Diego State University**
-: *2024 - Present*
-- Provided help to student via discord server and email. 
-- Troubleshooted their problems in taught languages such as: C, Haskell, Prolog and Python
-- Modified and set up Programming Assignment for students based on provided documents. 
-- Created automation process such as: discord bot, server scripting, autograders on different languages: Haskell, Prolog, Python.
-
+## **Experience**
 
 ### IT Solutions Technician
 **NC Tech Computer**
 : *2017 – Current*
-- Troubleshooted and resolved PC hardware issues, optimizing system performance for clients.
-- Deployed and configured networking equipment, hardware, and software for small businesses, enhancing operational efficiency.
-- Provided personalized IT solutions, catering to the unique needs of each client and ensuring satisfaction.
+- Troubleshoot and fix both PC hardware and software issues.
+- Optimize system performance for clients.
+- Configure small business network equipment, hardware, and software.
+- Provide personalized IT solutions, catering to the unique needs of each client and ensure customer satisfaction.
+
+### Instructional Student Assistant
+**San Diego State University**
+: *2024*
+- Troubleshooted their problems in taught languages such as: C, Haskell, Prolog and Python
+- Modified and set up Programming Assignment for students based on provided documents. 
+- Created automation process such as: discord bot, server scripting, autograders on different languages: Haskell, Prolog, Python.
 
 ### Office Administrator & IT Support Specialist
 **Monarch Company LLC**  
@@ -47,18 +46,19 @@ Resume in pdf version: &nbsp;&nbsp;[Resume.pdf](/assets/files/Resume.pdf)
 ### Customer Service Specialist
 **Le Huynh Inc.**  
 : *2015 – 2022*
-- Delivered exceptional customer service, including order processing and addressing requests from diners.
+- Delivered exceptional customer service.
+- Processed order and requests from diners.
 
 ### Teacher Assisstant
 **Grossmont College**  
 : *2014-2015*
-- Assisted students in comprehending lecture materials and offered guidance with homework assignments.
-- Demonstrated effective communication skills and a dedication to supporting student learning.
+- Assisted student with homework assignments.
+- Used effective communication skills and a dedication to support student learning.
 
-### Education
+## **Education**
 **Bachelor of Science in Computer Science**  
 :  *San Diego State University*  
-  *Expected Graduation: 2025*
+  *Expected Graduation: June 2025*
 
 **Associate of Science in Computer Science**  
 :  *Grossmont Community College*  
