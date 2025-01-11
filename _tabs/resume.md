@@ -81,13 +81,13 @@ Experienced IT professionals with significant experience in troubleshooting, mai
 
 ## **Education**
 **Bachelor of Science in Computer Science**  
-:  *San Diego State University*  
+:  **San Diego State University**  
   *Expected Graduation: June 2025*
 
 **Associate of Science in Computer Science**  
-:  *Grossmont Community College*  
+:  **Grossmont Community College**  
   
 
 **High School Diploma**  
-:  *San Diego Academy*  
+:  **San Diego Academy**  
   
