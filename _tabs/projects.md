@@ -27,6 +27,6 @@ order: 4
 
 - **Description**: This is my 2d game project for my senior that based on the vietnamese new year gamble game that we have.
 
-| Github Repository: | [Exploitables2 nfs mount attack](https://datpersonal.github.io/exploitables2_nfs_attack)
+| Github Repository: | [Exploitables2 nfs mount attack](https://github.com/datpersonal/exploitables2_nfs_attack)
 
 - **Description**: This is my automation take on bash scripting to gain root shell through nfs attack.
